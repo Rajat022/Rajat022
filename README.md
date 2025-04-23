@@ -1,54 +1,47 @@
-## 👋 Hi, I'm Rajat Chauhan!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rajat Chauhan
+=====================================================================================================================================
 
-Welcome to my space on the internet — where data meets engineering 🚀  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat022)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rajat022)
+* 🌍  I'm based in **Paris, France**
+* ✉️  You can contact me at [chauhanrajat610@gmail.com](mailto:chauhanrajat610@gmail.com)
+* 🧠  I'm learning advanced workflows in **Apache NiFi**, **CI/CD**, and cloud platforms like **GCP**
+* 🤝  I'm open to collaborating on **Data Engineering, Data Quality, and Dashboard Automation** projects
+* ⚡  Fun fact: My grandma is 80 and still outpaces me on walks!
 
----
-
-🔍 **About Me**
-
-🎓 Master’s in Big Data & Business Analytics from CY Cergy Paris Université  
-🧠 Data Engineer & Analyst with 3+ years of experience in building scalable ETL pipelines, data automation, and quality management  
-💼 Ex-Doctolib | Ex-Knoema | Dashboard enthusiast & SQL whisperer  
-🌍 Currently based in Paris, France  
+<a href="https://twitter.com/rajat022" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rajat022?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ---
 
-🛠️ **What I’m Working On**
-
-- Optimizing data workflows and improving data quality at scale  
-- Learning more about Apache NiFi and CI/CD for data  
-- Tinkering with Metabase, Airflow, and GCP in personal projects  
-
----
-
-📚 **Tech Stack**
+### Skills
 
 **Languages**: Python, SQL, R, Pyspark  
-**Data Tools**: Metabase, Power BI, Tableau, Excel  
-**Platforms**: GCP, Azure, Salesforce, Reltio  
-**Big Data**: Hadoop, Spark, MongoDB, Hive  
-**Other**: Git, Jira, Confluence, Databricks, Apache Airflow  
+**Data Tools**: Tableau, Power BI, Metabase, Excel  
+**Data Platforms**: Salesforce, Reltio, PostgreSQL, MongoDB  
+**Big Data & Cloud**: Hadoop, Spark, Hive, GCP, Azure  
+**Other Tools**: Git, Jira, Confluence, Databricks, Apache Airflow
 
 ---
 
-✨ **Fun Facts**
+### Socials
 
-- 🧩 I love debugging complex pipelines more than solving puzzles  
-- 🛫 I’ve worked with both startup and enterprise-level data  
-- 🎯 I’m passionate about automation and simplifying chaos with code  
-- 🧓 My grandma is 80 and still outpaces me on walks — talk about motivation!  
-
----
-
-📫 **Reach Me At**
-
-📧 chauhanrajat610@gmail.com  
-📍 Paris, France  
-🌐 [LinkedIn](https://linkedin.com/in/rajat022)  
-💻 [GitHub](https://github.com/Rajat022)  
+<p align="left"> 
+<a href="https://www.github.com/Rajat022" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a> 
+<a href="https://www.linkedin.com/in/rajat022" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a> 
+</p>
 
 ---
 
-🧠 *"Data tells a story — I'm just here to translate."*
+### 👨‍💻 About Me
+
+- 🎓 Pursuing Master’s in Big Data & Business Analytics at **CY Cergy Paris Université**
+- 👨‍💼 Previously worked at **Doctolib** (Data Quality Analyst) and **Knoema** (Data Engineer)
+- 🚀 Passionate about building clean, efficient data pipelines and data visualization dashboards
+- 💬 Ask me about **ETL automation, Salesforce data modeling, SQL dashboards**, or how to manage chaos in data flows
+
+🧠 _"Data tells a story — I'm just here to translate."_
+
